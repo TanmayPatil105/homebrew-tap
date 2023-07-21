@@ -1,7 +1,7 @@
 class No < Formula
     desc "🚫 That's What She Said"
     url "https://github.com/TanmayPatil105/no/archive/refs/tags/v9.0.tar.gz"
-    sha256 "81f28624f3f268b79dd005ad4496a09a0faabb286d51558dadb243a594b0f5af"
+    sha256 "a04508042d0bfbe77ab711b5847fd011f89d057d9366444e74e389a93d862a52"
     license "WTFPL"
     
     def install
